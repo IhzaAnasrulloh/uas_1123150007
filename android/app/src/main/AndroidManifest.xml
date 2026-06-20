@@ -32,10 +32,10 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data android:scheme="dompetkampus" android:host="pay"/>
-            </intent-filter>
+            </intent-filter> 
             <!-- Optional App Link (HTTPS): https://dompetkampus.app/pay?...
                  Requires hosting assetlinks.json at https://dompetkampus.app/.well-known/assetlinks.json
-                 before enabling android:autoVerify="true". -->
+                 before enabling android:autoVerify="true". --> 
             <intent-filter android:autoVerify="false">
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
