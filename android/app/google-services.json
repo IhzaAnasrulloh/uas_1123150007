@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22606727953",
+    "project_id": "e-wallet-bb26e",
+    "storage_bucket": "e-wallet-bb26e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22606727953:android:1b7f3ae61510ad234c5ab0",
+        "android_client_info": {
+          "package_name": "com.example.gocap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGG8DUxSnLnjhwP84n6I_rT4rBjCbnsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22606727953:android:b9a732759534d1314c5ab0",
+        "android_client_info": {
+          "package_name": "e.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGG8DUxSnLnjhwP84n6I_rT4rBjCbnsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
